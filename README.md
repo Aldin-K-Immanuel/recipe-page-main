@@ -4,12 +4,11 @@ This is my solution to the [Recipe page challenge](https://www.frontendmentor.io
 
 ## 📸 Screenshot
 
-![Desktop Screenshot](./screenshot.jpg)
+![Desktop Screenshot](/assets/images/screenshot.JPG)
 
 ## 🚀 Live Site
 
-- [Live Site URL](https://your-live-site-url.com)
-- [Frontend Mentor Solution Page](https://your-solution-link.com)
+- [Live Site URL](https://recipe-page-main-beta-seven.vercel.app/)
 
 ## 🧩 The Challenge
 
